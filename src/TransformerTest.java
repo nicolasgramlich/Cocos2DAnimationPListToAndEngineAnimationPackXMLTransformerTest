@@ -52,14 +52,14 @@ public class TransformerTest {
 		"        <texturepack filename=\"farm_storypanel_spritesheet.xml\"/>\n" +
 		"    </texturepacks>\n" +
 		"    <animations>\n" +
-		"        <animation name=\"farm_duck_celebrate\" loopCount=\"11\">\n" +
-		"            <animationframe duration=\"100\" textureRegion=\"farm_duck_celebrate_0001.png\"/>\n" +
-		"            <animationframe duration=\"200\" textureRegion=\"farm_duck_celebrate_0002.png\"/>\n" +
+		"        <animation name=\"farm_duck_celebrate\" loopcount=\"11\">\n" +
+		"            <animationframe duration=\"100\" textureregion=\"farm_duck_celebrate_0001.png\"/>\n" +
+		"            <animationframe duration=\"200\" textureregion=\"farm_duck_celebrate_0002.png\"/>\n" +
 		"        </animation>\n" +
-		"        <animation name=\"farm_duck_fever\" loopCount=\"1\">\n" +
-		"            <animationframe duration=\"600\" textureRegion=\"farm_duck_fever_0001.png\"/>\n" +
-		"            <animationframe duration=\"800\" textureRegion=\"farm_duck_fever_0002.png\"/>\n" +
-		"            <animationframe duration=\"1000\" textureRegion=\"farm_duck_fever_0003.png\"/>\n" +
+		"        <animation name=\"farm_duck_fever\" loopcount=\"1\">\n" +
+		"            <animationframe duration=\"600\" textureregion=\"farm_duck_fever_0001.png\"/>\n" +
+		"            <animationframe duration=\"800\" textureregion=\"farm_duck_fever_0002.png\"/>\n" +
+		"            <animationframe duration=\"1000\" textureregion=\"farm_duck_fever_0003.png\"/>\n" +
 		"        </animation>\n" +
 		"    </animations>\n" +
 		"</animationpack>\n";
